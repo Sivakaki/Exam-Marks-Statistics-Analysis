@@ -17,10 +17,6 @@ Requirements
 Python 3.6+
 NumPy
 
-Installation
-bash# Clone the repository
-git clone https://github.com/yourusername/exam-marks-analysis.git
-
 # Navigate to the directory
 cd exam-marks-analysis
 
