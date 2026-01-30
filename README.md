@@ -17,9 +17,6 @@ Requirements
 Python 3.6+
 NumPy
 
-# Navigate to the directory
-cd exam-marks-analysis
-
 # Install dependencies
 pip install numpy
 Usage
